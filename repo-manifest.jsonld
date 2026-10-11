@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-skills/commit/d2d7b8276c3fcabe89658edbd74c16654910bf5e",
       "git:hexsha": "d2d7b8276c3fcabe89658edbd74c16654910bf5e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T21:56:39.163481+00:00"
     }
   ]
 }
