@@ -1,0 +1,11 @@
+{
+  "org": "litestar-org",
+  "repo": "litestar-skills",
+  "versions": [
+    {
+      "commit": "d2d7b8276c3fcabe89658edbd74c16654910bf5e",
+      "tag": "",
+      "parsed_at": "2026-10-11T21:56:39.163961+00:00"
+    }
+  ]
+}
